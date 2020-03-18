@@ -56,5 +56,4 @@ public class Opdracht3SavePerson {
 		ImageIO.write(bufferimage, "jpg", output );
 		return output.toByteArray();
 	}
-
 }
